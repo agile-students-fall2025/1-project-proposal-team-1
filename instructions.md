@@ -2,6 +2,7 @@
 
 Write a proposal for a mobile web application you would like to pursue for the majority of the semester into the file named `README.md`. Make your project idea obvious, interesting, and make the need for it sound convincing.
 
+
 ## Collaboration
 
 You are welcome to work in a team of up to 5 people on this proposal, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal, where the names link to their GitHub user profiles.
@@ -24,11 +25,13 @@ Your proposal must focus on the product's value proposition, including answers t
 
 ### Project title
 
-Give your project a nice title.
+The Home App
 
 ### What and why?
 
 What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+
+Managing a household of soccer games, after-school programs, drop-offs and pick-ups isn't easy. An app to track your schedule, along with those of each member in your household, is the perfect solution to staying up to date with eachother. Busy schedules call for stressful households, with caretakers often juggling their work schedules with those of their children. However, this app is intended to allow users to log and share their activity schedule with family members, receive reminders before important events, and always keep eachother updated and connected.
 
 ### For whom?
 
@@ -38,13 +41,19 @@ Do not make software for imaginary users who do not exist - you must have real p
 
 Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
 
+The software is designed for families with multiple members. The app is intended to be used by parents, guardians, babysitters, teens, and older children. 
+
 ### How?
 
 A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
 
+Users can join their families "Home" where they will have access to eachother's schedules. Users can log their own personal schedule, and set family reminders for special events.  
+
 ### Scope
 
 A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+
+The app is very straight-forward, it is ultimately a scheduling app with a page for the user's scedule, and a separate page for a family schedule. There also needs to be a notification implementation and possibly a text/communication feature which will require more research. 
 
 ## Submission
 
