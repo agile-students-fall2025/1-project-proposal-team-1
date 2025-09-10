@@ -14,7 +14,7 @@ The software is designed for families with multiple members. The app is intended
 
 ### How?
 
-Users can join their families "Home" where they will have access to eachother's schedules. Users can log their own personal schedule, and set family reminders for special events.  
+Users can join their families "Home" screen where they will have access to eachother's schedules. Users can log their own personal schedule, and set family reminders for special events.  
 
 ### Scope
 
